@@ -1,0 +1,6 @@
+{
+  "name": "Python Nexus – Neon Science Coding Game",
+  "description": "Learn Python programming from scratch through an immersive futuristic biotechnology and materials science laboratory coding game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
